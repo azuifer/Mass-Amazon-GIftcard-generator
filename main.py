@@ -1,3 +1,4 @@
+import time
 import random
 from colorama import init, Fore
 import string
@@ -32,4 +33,4 @@ print()
 print(Fore.RED + 'Enter amount of codes to generate: ')
 amount = int(input())
 gen(1, amount)
-input()
+time.sleep(2)
