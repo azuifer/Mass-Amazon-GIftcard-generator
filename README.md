@@ -11,3 +11,6 @@ generate a large number of random amazon gift cards
 
 
 **The codes are then saved in the folder "amazon_codes.txt"**
+
+
+![ERROR](https://i.imgur.com/mswbeYN.png)
